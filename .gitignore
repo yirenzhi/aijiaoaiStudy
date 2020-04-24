@@ -1,0 +1,5 @@
+.vscode/
+.vs/
+.ipynb_checkpoints/
+__pycache__/
+__MACOSX/
