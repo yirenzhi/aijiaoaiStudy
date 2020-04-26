@@ -3,3 +3,4 @@
 .ipynb_checkpoints/
 __pycache__/
 __MACOSX/
+cifar-10-batches-py/
